@@ -1,4 +1,4 @@
-# health
+# Health Analysis
 sns.countplot(data = nig , x ='SleepHours', palette = 'Spectral')
 ![image](https://github.com/user-attachments/assets/d3df45c7-ce31-41bb-939c-5ff58b5812a3)
 
